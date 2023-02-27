@@ -225,3 +225,4 @@ Sua sugestão será sempre bem-vinda para melhor lhe atender. Até logo."""
 txt_avaliar_agradecimento = """Agradeço por sua avaliação.\n
 Esse dado é um apoio importante, pois me preocupo em prestar um bom atendimento e sanar suas necessidades.\n
 Por isso sua colaboração é fundamental, utilize [ /sugerir ] e colabore em meu upgrade, desta forma poderei melhor lhe atender nas futuras atualizações."""
+
