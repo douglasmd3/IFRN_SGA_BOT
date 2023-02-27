@@ -8,3 +8,4 @@ python3  src/main.py
 # heroku create remote -> git:remote -a ifrn-sga-bot
 #deploy in heroku -> git push heroku main
 # tutorial => https://devcenter.heroku.com/articles/heroku-cli
+#
