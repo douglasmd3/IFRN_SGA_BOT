@@ -35,5 +35,3 @@ select quantidade_de_usuario from register;
 select quantidade_de_interacao from interacao;
 select * from satisfacao;
 select * from sugestao, register, interacao, satisfacao;
-
-
