@@ -361,7 +361,7 @@ class ClienteTelegram(Cliente):
             text=f'{update.effective_user.full_name} sugiro que utilize / para acessar o menu e funções.')
 
     def iniciar(self) -> None:
-        token = "5241177916:AAHZUC5gimNEyosHBngN5-KELqBSYauthok"
+        token = "API"
 
         updater = Updater(token)
         dispatcher = updater.dispatcher
