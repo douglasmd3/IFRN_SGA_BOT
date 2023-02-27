@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 
 def citacao():
-    r = requests.get("https://api.quotable.io/random")
+    r = requests.get("https://api.quotable.io/random")#
     if r.status_code == 200:
         data = r.json()
         quote = f'{data["content"]} ({data["author"]})'
