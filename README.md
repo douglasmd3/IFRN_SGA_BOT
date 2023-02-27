@@ -2,7 +2,7 @@
 IMPLEMENTAÇÃO DE CHATBOT NO TELEGRAM PARA  ATENDIMENTO ACADÊMICO NO IFRN – SGA
 
 
-#Ilustração das funcionalidades desenvolvidas:
+# Ilustração das funcionalidades desenvolvidas:
 https://youtu.be/hcVtBEGZiUw
 # relacionado: 
 https://youtu.be/dLnivb-7mj0
